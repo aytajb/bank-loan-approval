@@ -1,2 +1,5 @@
-# bank-loan-approval
-For the GitHub repo description box write:  **"machine learning - predicting loan approval with Random Forest  and finding out which factors matter most for the decision of bank
+Predicting loan approval using applicant data 
+top factors - loan-to-income ratio,prior defaults,interestr rate
+datasett -45k applications,13 features
+
+This analysis helps  bank decide who to approve automatically and who needs manuallly human review
